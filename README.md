@@ -11,8 +11,8 @@ David Reichel, Łucja Biel, Monika Leszczyńska, Neel Guha, Elizabeth Barry, Mar
 **Teaching Assistants**:
 Kamil Szostak, Mateusz Mroziński, Martyna Osztynowicz, Joanna Walczak, Krzysztof Jeromin, Weronika Łomako.
 
-**Selected Participants**:
-Eva van der Zee, Bahadir Kus, Albana Hana, Karan Choudhary, May Pascaud, Marta Bakun, Mateusz Grabarczyk.
+**Participants**:
+Albana Hana, Alena McClure, Amelie Längle, Bahadir Kus, Claudia Amato, Eva van der Zee, Gabriela Kubala, Karan Choudhary, Karolina Kiejnich-Kruk, Katarzyna Kos, Krzysztof Jeromin, Marta Bakun, Marzena Świstak, Mateusz Grabarczyk, May Pascaud, Monika Kuryło, Rok Dacaar, Sena Yüksel, Srinanda Brügger Bose, Tomáš Knap, Weronika Łomako, Weronika Smoleń, Zuzanna Duszyńska, Zuzanna Kowalska.
 
 Learn more about our first edition on the [official website](https://sicss.io/2024/amu-law/).
 
