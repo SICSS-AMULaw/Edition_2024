@@ -2,6 +2,9 @@
 
 In 2024, we had a dream team that took awesomeness to a whole new level.
 
+**Project Manager**:
+Wojciech Biernacki.
+
 **Our Team**:
 Wojciech Biernacki, Paulina Klisowska, Łukasz Szoszkiewicz, Jędrzej Wydra.
 
