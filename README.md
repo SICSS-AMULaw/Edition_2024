@@ -2,11 +2,8 @@
 
 In 2024, we had a dream team that took awesomeness to a whole new level.
 
-**Project Manager**:
-Wojciech Biernacki.
-
 **Our Team**:
-Wojciech Biernacki, Paulina Klisowska, Łukasz Szoszkiewicz, Jędrzej Wydra.
+Wojciech Biernacki (project manager), Paulina Klisowska, Łukasz Szoszkiewicz, Jędrzej Wydra.
 
 **Speakers**:
 David Reichel, Łucja Biel, Monika Leszczyńska, Neel Guha, Elizabeth Barry, Marta Nawrocka-Świętkowiak.
