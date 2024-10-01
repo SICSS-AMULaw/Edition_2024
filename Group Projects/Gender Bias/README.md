@@ -1,5 +1,5 @@
 ### Authors of this project:
-Eva van der Zee,
+**Eva van der Zee (leader)**,
 Krzysztof Jeronim,
 Amelie Längle,
 Gabriela Kubala,
