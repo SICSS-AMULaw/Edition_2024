@@ -1,6 +1,6 @@
 ### Authors of this project:
-Albana Hana,
 Karolina Kiejnich-Kruk,
+Albana Hana,
 Marta Bakun,
 Zuzanna Duszyńska,
 Weronika Łomanko
