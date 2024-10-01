@@ -1,5 +1,5 @@
 ### Authors of this project:
-**Tomas Knap (leader)**,
+Tomas Knap,
 Monika Kuryło,
 Alena McClure
 
