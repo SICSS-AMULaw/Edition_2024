@@ -1,7 +1,10 @@
 ### Authors of this project:
 Eva van der Zee,
+Mateusz Grabarczyk,
 Krzysztof Jeronim,
-Amelie Längle,
-Gabriela Kubala,
 Katarzyna Kos,
-Mateusz Grabarczyk
+Gabriela Kubala,
+Amelie Längle
+
+
+
