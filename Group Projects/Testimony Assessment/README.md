@@ -1,5 +1,5 @@
 ### Authors of this project:
-**Karolina Kiejnich-Kruk (leader)**,
+Karolina Kiejnich-Kruk,
 Albana Hana,
 Marta Bakun,
 Zuzanna Duszyńska,
